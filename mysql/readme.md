@@ -1,4 +1,4 @@
-##　bash脚本将csv数据导入mysql
+## 通过bash脚本将csv数据导入mysql
 
 ## 运行脚本
 
